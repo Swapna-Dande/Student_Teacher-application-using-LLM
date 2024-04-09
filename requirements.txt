@@ -20,6 +20,11 @@ graphviz
 pathlib
 seaborn
 emoji
+auth_functions
+firebase_admin
+credentials
+firestore
+
 
 
 -e .
