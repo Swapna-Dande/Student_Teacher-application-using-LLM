@@ -21,8 +21,7 @@ pathlib
 seaborn
 emoji
 firebase_admin
-credentials
-firestore
+
 
 
 
