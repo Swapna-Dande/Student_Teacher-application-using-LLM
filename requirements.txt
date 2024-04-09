@@ -1,0 +1,25 @@
+streamlit==1.23.1
+requests==2.31.0
+streamlit
+streamlit-option-menu
+google-generativeai
+python-dotenv
+logger
+PyPDF2
+langchain_google_genai
+textwrap3
+youtube_transcript_api
+langchain
+langchain_community
+streamlit_lottie
+openpyxl
+pygwalker
+pandasai
+pandas
+graphviz
+pathlib
+seaborn
+emoji
+
+
+-e .

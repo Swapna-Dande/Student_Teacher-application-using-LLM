@@ -1,5 +1,13 @@
-# Student_Teacher-application-using-LLM
+# Streamlit + Firebase Authentication
 
-#ABSTRACT
-The educational landscape is rapidly evolving, driven by technological advancements and the widespread adoption of online learning. In this dynamic context, Acumen Chat Academy emerges as a catalyst for seamless communication and knowledge exchange. Built upon the user-friendly Streamlit platform, it fosters a collaborative ecosystem where educators and students can thrive. Acumen prioritizes simplicity, empowering teachers with efficient class management tools. Students benefit from personalized learning experiences through features like Chat with File for exploring uploaded PDFs. Additionally, the YT Summarizer generates automatic video summaries for efficient comprehension. By embracing data-driven insights and collaboration, Acumen Chat Academy positions itself as a cornerstone in modern education.
+Simple boilerplate Streamlit app with Authentication using Firebase Web API:
 
+- Everything needed for the most common email and password authentication operations (Sign In, Account Creation, Password Reset, Sign Out, Account Deletion).
+
+- Built-in error handling, loading states (spinners), success and warning messages
+
+- No dependencies (except the `requests` library for the API calls)
+
+- No custom components (only Streamlit-native widgets)
+
+**Note:** Remember to add your Firebase project Web API key to the .streamlit/secrets.toml... **and keep it a secret!**
